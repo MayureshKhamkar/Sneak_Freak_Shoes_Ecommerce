@@ -92,10 +92,11 @@ The `js/script.js` includes:
 ---
 
 ## 💡 Future Enhancements
-
+- Backend with python
 - Integrate Payment Gateway (Razorpay/Stripe) - currently through gpay scanner 
 - Wishlist Feature
-- Product Categories
+- Product Categories & search Bar
+- Responsive Add to cart functionality
 
 ---
 
@@ -107,8 +108,8 @@ This project is created for academic and learning purposes. Not intended for com
 
 ## 👨‍💻 Developed By
 
-**Your Name**  
-TYBBA(CA) – Final Year Project  
+**Mayuresh Khamkar**  
+TYBBA(CA) – Project of 2 year 4 sem 
 Savitribai Phule Pune University  
-April 2025
+August 2023
 
