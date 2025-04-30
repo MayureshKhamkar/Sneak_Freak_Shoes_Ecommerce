@@ -1,10 +1,16 @@
-👟 Sneak Freak – Shoes Ecommerce Website
-Sneak Freak is a frontend-based ecommerce platform focused on sneaker enthusiasts. It showcases a wide range of shoes with modern UI/UX, using only HTML, CSS, and JavaScript. Ideal for portfolio presentations, academic submissions, or frontend practice projects.
+Sure! Here's a complete GitHub-ready README file in the same style for your **Sneak Freak – Shoes Ecommerce** project:
 
-📂 Project Structure Overview
-graphql
-Copy
-Edit
+---
+
+# 👟 Sneak Freak – Shoes Ecommerce Website
+
+**Sneak Freak** is a frontend-based ecommerce platform focused on sneaker enthusiasts. It showcases a wide range of shoes with modern UI/UX, using only HTML, CSS, and JavaScript. Ideal for portfolio presentations, academic submissions, or frontend practice projects.
+
+---
+
+## 📂 Project Structure Overview
+
+```
 SneakFreak/
 ├── css/                   # Stylesheets for layout and responsiveness
 │   └── style.css
@@ -15,84 +21,94 @@ SneakFreak/
 ├── product.html           # Product listing or detail page
 ├── cart.html              # Shopping cart page
 └── README.md              # Project documentation (this file)
-🔧 Technologies Used
-Frontend: HTML5, CSS3, JavaScript
+```
 
-Hosting: GitHub Pages or any static hosting provider
+---
 
-IDE/Editor: Visual Studio Code
+## 🔧 Technologies Used
 
-✨ Key Features
-👟 Product Showcasing (Sneakers)
+- **Frontend**: HTML5, CSS3, JavaScript
+- **Hosting**: GitHub Pages or any static hosting provider
+- **IDE/Editor**: Visual Studio Code
 
-🛒 Add to Cart & View Cart
+---
 
-📱 Responsive Design
+## ✨ Key Features
 
-🎨 Smooth Animations
+- 👟 Product Showcasing (Sneakers)
+- 🛒 Add to Cart & View Cart
+- 📱 Responsive Design
+- 🎨 Smooth Animations
+- 🔍 Product Filtering/Sorting (if implemented)
+- 🔗 Internal Page Navigation (Homepage, Product, Cart)
 
-🔍 Product Filtering/Sorting (if implemented)
+---
 
-🔗 Internal Page Navigation (Homepage, Product, Cart)
+## 🚀 Getting Started
 
-🚀 Getting Started
-1. Clone the Repository
-bash
-Copy
-Edit
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/yourusername/sneakfreak.git
 cd sneakfreak
-2. Open in Browser
-Just open index.html in your browser. No backend or server setup is required.
+```
 
-🖼️ Assets & Styling
-The images/ folder includes:
+### 2. Open in Browser
 
-Product photos (various sneakers)
+Just open `index.html` in your browser. No backend or server setup is required.
 
-Banner images for homepage
+---
 
-Icons and logos
+## 🖼️ Assets & Styling
 
-The css/style.css file controls:
+The `images/` folder includes:
 
-Color scheme and branding
+- Product photos (various sneakers)
+- Banner images for homepage
+- Icons and logos
 
-Layout grid for product cards
+The `css/style.css` file controls:
 
-Responsive behavior
+- Color scheme and branding
+- Layout grid for product cards
+- Responsive behavior
 
-The js/script.js includes:
+The `js/script.js` includes:
 
-Cart logic (add/remove items)
+- Cart logic (add/remove items)
+- Quantity updates
+- Alerts or simple checkout logic
 
-Quantity updates
+---
 
-Alerts or simple checkout logic
+## 🗂️ HTML Pages
 
-🗂️ HTML Pages
+| Page File        | Purpose                        |
+|------------------|--------------------------------|
+| `index.html`     | Homepage with featured products|
+| `product.html`   | Sneaker details or listing     |
+| `cart.html`      | Shopping cart & checkout flow  |
 
-Page File	Purpose
-index.html	Homepage with featured products
-product.html	Sneaker details or listing
-cart.html	Shopping cart & checkout flow
-💡 Future Enhancements
-Add backend with PHP/Node.js for real orders
+---
 
-Integrate Payment Gateway (Razorpay/Stripe)
+## 💡 Future Enhancements
 
-Login/Signup Authentication
+- Integrate Payment Gateway (Razorpay/Stripe) - currently through gpay scanner 
+- Wishlist Feature
+- Product Categories
 
-Wishlist Feature
+---
 
-Product Categories & Search Bar
+## 📜 License
 
-📜 License
 This project is created for academic and learning purposes. Not intended for commercial use without prior permission.
 
-👨‍💻 Developed By
-**Mayuresh Khamkar and Aniket Thatte**
-TYBBA(CA) – Final Year Project
-Savitribai Phule Pune University
+---
+
+## 👨‍💻 Developed By
+
+**Your Name**  
+TYBBA(CA) – Final Year Project  
+Savitribai Phule Pune University  
 April 2025
 
