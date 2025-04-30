@@ -108,8 +108,9 @@ This project is created for academic and learning purposes. Not intended for com
 
 ## 👨‍💻 Developed By
 
-**Mayuresh Khamkar**  
-TYBBA(CA) – Project of 2 year 4 sem 
-Savitribai Phule Pune University  
-August 2023
+Developed By: Mayuresh Khamkar
+Semester: 4
+Academic Year: 2022–2025
+University: Savitribai Phule Pune University
+Program: BBA(CA)
 
